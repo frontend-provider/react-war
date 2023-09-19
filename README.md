@@ -299,10 +299,3 @@ _See also [I18N Issue Page](https://github.com/arcomage/arcomage-hd/issues/9)_
 
 Arcomage was initially developed by Stickman Games and later sold to The 3DO Company (3DO). The game appeared as a mini-game in _Might and Magic VII: For Blood and Honor_ (MM7) and _Might and Magic VIII: Day of the Destroyer_ (MM8), the seventh and eighth games in New World Computing (NWC)'s _Might and Magic_ (MM) series. (It's like _Gwent_ in _The Witcher_) NWC and its parent company, 3DO, also released a stand-alone version in 2000, which can be played in single player or multi player mode. The original stand-alone Arcomage has a resolution of 800 x 600 pixels and is usable in 16-bit color mode in Windows 10, but the graphics is unstable.
 
-## Copyright
-
-The code of the ArcoMage HD game: MIT License (c) 2021 [Tom Chen](https://tomchen.org/).
-
-The assets, text, appearance and other copyrightable elements of the game: (c) 2001 The 3DO Company.
-
-See [CREDIT.md file](CREDIT.md) for a detailed presentation of the copyright status, licenses and credit of the game's components.
